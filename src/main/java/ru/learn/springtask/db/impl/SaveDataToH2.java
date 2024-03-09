@@ -5,15 +5,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceProperties;
 import org.springframework.stereotype.Service;
 import ru.learn.springtask.data.DataFormat;
-import ru.learn.springtask.data.impl.CsvFormat;
 import ru.learn.springtask.db.SaveData;
 import ru.learn.springtask.db.model.Login;
 import ru.learn.springtask.db.model.User;
 import ru.learn.springtask.db.repository.LoginRepository;
 import ru.learn.springtask.db.repository.UserRepository;
 import ru.learn.springtask.log.LogTransformation;
-
-import java.io.IOException;
 
 /**
  * Сервис для сохранения данных в базу H2

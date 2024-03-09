@@ -29,3 +29,9 @@
 2024-03-09T16:29:37.649949900,2024-03-09T16:29:37.649949900,save,[CsvFormat(userName=user12, fio=Alex Petrovich, accessDate=null, application=mobile, error=true)],null
 2024-03-09T16:29:37.650924600,2024-03-09T16:29:37.654991500,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T01:02:03, application=web, error=false)],null
 2024-03-09T16:29:37.656,2024-03-09T16:29:37.660296100,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-05-01T01:02:03, application=mobile, error=false)],null
+2024-03-09T22:58:21.247264,2024-03-09T22:58:21.409358,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src/test/resources/files/file1.csv}, FileReader{logData=logData, filepath=src/test/resources/files/file2.csv}], folderName='src/test/resources/files/'}
+2024-03-09T22:58:21.419276,2024-03-09T22:58:21.898093,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T01:02:03, application=web, error=false)],null
+2024-03-09T22:58:21.899279,2024-03-09T22:58:21.904362,save,[CsvFormat(userName=user11, fio=Alex Ivanovich, accessDate=null, application=mobile, error=true)],null
+2024-03-09T22:58:21.905169,2024-03-09T22:58:21.905526,save,[CsvFormat(userName=user12, fio=Alex Petrovich, accessDate=null, application=mobile, error=true)],null
+2024-03-09T22:58:21.907626,2024-03-09T22:58:21.943261,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T01:02:03, application=web, error=false)],null
+2024-03-09T22:58:21.944491,2024-03-09T22:58:21.974839,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-05-01T01:02:03, application=mobile, error=false)],null
