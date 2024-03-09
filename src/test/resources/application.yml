@@ -1,0 +1,27 @@
+reader:
+  path: src/test/resources/files/
+logging:
+  level:
+    root: info
+logger:
+  path: src/test/resources/
+  fileError: error.log
+  fileInfo: info.log
+spring:
+  h2:
+    console:
+      enabled: true
+  datasource:
+    username: user
+    password: pass
+    url: jdbc:h2:./src/test/resources/db/logs
+    driver-class-name: org.h2.Driver
+  jpa:
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
+        enable_lazy_load_no_trans: true
+        hbm2ddl:
+          auto: validate
+    database-platform: org.hibernate.dialect.H2Dialect

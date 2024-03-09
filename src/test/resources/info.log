@@ -1,0 +1,31 @@
+2024-03-09T16:06:34.532697100,2024-03-09T16:06:34.672437,FolderProcessor.get(),[Ljava.lang.Object;@5dc7391e,ru.learn.springtask.file.FolderProcessor@6104691c
+2024-03-09T16:06:34.682213,2024-03-09T16:06:34.927587800,SaveDataToH2.save(..),[Ljava.lang.Object;@31028e45,null
+2024-03-09T16:06:34.928364400,2024-03-09T16:06:34.928364400,SaveDataToH2.save(..),[Ljava.lang.Object;@68f75a35,null
+2024-03-09T16:06:34.929425200,2024-03-09T16:06:34.929425200,SaveDataToH2.save(..),[Ljava.lang.Object;@50e0b472,null
+2024-03-09T16:06:34.930423300,2024-03-09T16:06:34.935424300,SaveDataToH2.save(..),[Ljava.lang.Object;@6f69e2d8,null
+2024-03-09T16:06:34.936447300,2024-03-09T16:06:34.942958900,SaveDataToH2.save(..),[Ljava.lang.Object;@59043741,null
+2024-03-09T16:10:35.190107400,2024-03-09T16:10:35.274636,FolderProcessor.get(),[Ljava.lang.Object;@62615be,ru.learn.springtask.file.FolderProcessor@726ef6aa
+2024-03-09T16:11:20.189051200,2024-03-09T16:11:20.336222500,FolderProcessor.get(),[Ljava.lang.Object;@4e26040f,ru.learn.springtask.file.FolderProcessor@395197cb
+2024-03-09T16:11:20.348611900,2024-03-09T16:11:20.632568300,SaveDataToH2.save(..),[Ljava.lang.Object;@61503d00,null
+2024-03-09T16:11:20.633936700,2024-03-09T16:11:20.634499400,SaveDataToH2.save(..),[Ljava.lang.Object;@1fcfcf37,null
+2024-03-09T16:11:20.635043,2024-03-09T16:11:20.635600300,SaveDataToH2.save(..),[Ljava.lang.Object;@3ebc6d8b,null
+2024-03-09T16:11:20.636499,2024-03-09T16:11:20.640518600,SaveDataToH2.save(..),[Ljava.lang.Object;@68f75a35,null
+2024-03-09T16:11:20.641374500,2024-03-09T16:11:20.645558200,SaveDataToH2.save(..),[Ljava.lang.Object;@6f25ed2b,null
+2024-03-09T16:26:00.285425900,2024-03-09T16:26:00.428642600,get,[],ru.learn.springtask.file.FolderProcessor@1de6dc80
+2024-03-09T16:26:00.438556400,2024-03-09T16:26:00.675460600,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T01:02:03, application=web, error=false)],null
+2024-03-09T16:26:00.676841700,2024-03-09T16:26:00.676841700,save,[CsvFormat(userName=user11, fio=Alex Ivanovich, accessDate=null, application=mobile, error=true)],null
+2024-03-09T16:26:00.678513700,2024-03-09T16:26:00.678513700,save,[CsvFormat(userName=user12, fio=Alex Petrovich, accessDate=null, application=mobile, error=true)],null
+2024-03-09T16:26:00.679619900,2024-03-09T16:26:00.684579400,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T01:02:03, application=web, error=false)],null
+2024-03-09T16:26:00.685541700,2024-03-09T16:26:00.689578700,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-05-01T01:02:03, application=mobile, error=false)],null
+2024-03-09T16:27:39.545369800,2024-03-09T16:27:39.640926500,get,[],ru.learn.springtask.file.FolderProcessor@418d1c03
+2024-03-09T16:27:39.650039600,2024-03-09T16:27:39.850879100,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T01:02:03, application=web, error=false)],null
+2024-03-09T16:27:39.851889400,2024-03-09T16:27:39.851889400,save,[CsvFormat(userName=user11, fio=Alex Ivanovich, accessDate=null, application=mobile, error=true)],null
+2024-03-09T16:27:39.853081200,2024-03-09T16:27:39.853081200,save,[CsvFormat(userName=user12, fio=Alex Petrovich, accessDate=null, application=mobile, error=true)],null
+2024-03-09T16:27:39.853820200,2024-03-09T16:27:39.858179500,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T01:02:03, application=web, error=false)],null
+2024-03-09T16:27:39.859343900,2024-03-09T16:27:39.863685800,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-05-01T01:02:03, application=mobile, error=false)],null
+2024-03-09T16:29:37.296522700,2024-03-09T16:29:37.399953900,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}, FileReader{logData=logData, filepath=src\test\resources\files\file2.csv}], folderName='src/test/resources/files/'}
+2024-03-09T16:29:37.413658400,2024-03-09T16:29:37.647147600,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T01:02:03, application=web, error=false)],null
+2024-03-09T16:29:37.648556200,2024-03-09T16:29:37.648556200,save,[CsvFormat(userName=user11, fio=Alex Ivanovich, accessDate=null, application=mobile, error=true)],null
+2024-03-09T16:29:37.649949900,2024-03-09T16:29:37.649949900,save,[CsvFormat(userName=user12, fio=Alex Petrovich, accessDate=null, application=mobile, error=true)],null
+2024-03-09T16:29:37.650924600,2024-03-09T16:29:37.654991500,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T01:02:03, application=web, error=false)],null
+2024-03-09T16:29:37.656,2024-03-09T16:29:37.660296100,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-05-01T01:02:03, application=mobile, error=false)],null
