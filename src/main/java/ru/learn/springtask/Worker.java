@@ -2,16 +2,10 @@ package ru.learn.springtask;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.jdbc.DataSourceProperties;
 import org.springframework.stereotype.Component;
 import ru.learn.springtask.data.DataFormat;
 import ru.learn.springtask.data.checkers.Checker;
-import ru.learn.springtask.file.Reader;
-import ru.learn.springtask.data.checkers.impl.DataCheckerService;
 import ru.learn.springtask.db.SaveData;
-import ru.learn.springtask.db.impl.SaveDataToH2;
-import ru.learn.springtask.db.repository.LoginRepository;
-import ru.learn.springtask.db.repository.UserRepository;
 import ru.learn.springtask.file.FolderProcessor;
 
 @Slf4j
