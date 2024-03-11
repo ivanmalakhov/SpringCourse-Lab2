@@ -4,7 +4,10 @@ logger:
   path: src/main/resources/
   fileError: error.log
   fileInfo: info.log
-
+check:
+  applicationType:
+    pattern: web|mobile
+    changeValue: "other: "
 logging:
   level:
     root: info

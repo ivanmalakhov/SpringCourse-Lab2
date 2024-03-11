@@ -35,3 +35,25 @@
 2024-03-09T22:58:21.905169,2024-03-09T22:58:21.905526,save,[CsvFormat(userName=user12, fio=Alex Petrovich, accessDate=null, application=mobile, error=true)],null
 2024-03-09T22:58:21.907626,2024-03-09T22:58:21.943261,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T01:02:03, application=web, error=false)],null
 2024-03-09T22:58:21.944491,2024-03-09T22:58:21.974839,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-05-01T01:02:03, application=mobile, error=false)],null
+2024-03-11T13:01:53.635901600,2024-03-11T13:01:53.787376500,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}, FileReader{logData=logData, filepath=src\test\resources\files\file2.csv}], folderName='src/test/resources/files/'}
+2024-03-11T13:02:17.133989800,2024-03-11T13:02:17.236641900,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}, FileReader{logData=logData, filepath=src\test\resources\files\file2.csv}], folderName='src/test/resources/files/'}
+2024-03-11T13:04:36.014732900,2024-03-11T13:04:36.103277400,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:05:01.222398100,2024-03-11T14:05:01.320106300,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:05:01.328809500,2024-03-11T14:05:01.590197700,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T01:02:03, application=web, error=false)],null
+2024-03-11T14:05:01.594362100,2024-03-11T14:05:01.594714800,save,[CsvFormat(userName=user11, fio=Alex Ivanovich, accessDate=null, application=mobile, error=true)],null
+2024-03-11T14:06:22.431314100,2024-03-11T14:06:22.525273100,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:07:02.630310500,2024-03-11T14:07:02.716093500,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:15:44.432486900,2024-03-11T14:15:44.531841900,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:17:28.580677100,2024-03-11T14:17:42.035093600,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:18:53.839154300,2024-03-11T14:18:53.942110300,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:19:10.362331700,2024-03-11T14:19:10.500970800,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:20:48.728094400,2024-03-11T14:20:48.834394100,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:21:00.140460800,2024-03-11T14:21:00.558520800,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:22:05.965665300,2024-03-11T14:22:06.083609400,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:25:19.766057800,2024-03-11T14:25:19.854248600,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:25:32.550028100,2024-03-11T14:25:32.774548700,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:26:39.226410200,2024-03-11T14:26:39.375597100,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:27:03.044000700,2024-03-11T14:27:03.217857,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:27:47.794806700,2024-03-11T14:27:48.020008200,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:28:45.725747300,2024-03-11T14:28:45.823756700,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}
+2024-03-11T14:29:01.307140300,2024-03-11T14:29:01.648327700,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\test\resources\files\file1.csv}], folderName='src/test/resources/files/'}

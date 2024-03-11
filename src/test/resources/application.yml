@@ -3,6 +3,10 @@ reader:
 logging:
   level:
     root: info
+check:
+  applicationType:
+    pattern: web|mobile
+    changeValue: "other: "
 logger:
   path: src/test/resources/
   fileError: error.log

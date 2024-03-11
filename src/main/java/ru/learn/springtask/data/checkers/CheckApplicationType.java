@@ -1,6 +1,7 @@
 package ru.learn.springtask.data.checkers;
 
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
 import ru.learn.springtask.data.DataFormat;
 
 import java.util.function.Consumer;
@@ -9,10 +10,11 @@ import java.util.regex.Pattern;
 /**
  * Проверка типа приложения
  */
+@Component
 public class CheckApplicationType  implements Consumer<DataFormat> {
-    @Value("${fixer.applicationType.pattern}")
+    @Value("${check.applicationType.pattern}")
     private String applicationPattern;
-    @Value("${fixer.applicationType.changeValue}")
+    @Value("${check.applicationType.changeValue}")
     private String changeValue;
 
     @Override

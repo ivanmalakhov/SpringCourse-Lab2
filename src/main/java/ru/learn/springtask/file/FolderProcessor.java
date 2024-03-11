@@ -38,7 +38,9 @@ public class FolderProcessor implements Reader {
     @LogTransformation
     public FolderProcessor get() {
         try (Stream<Path> stream = Files.walk(Paths.get(folderName)).filter(Files::isRegularFile)) {
-            stream.forEach(file -> files.add(new FileProcessor(file).apply(format)));
+            stream.forEach(file -> {
+                log.info("Обработка файла: {}",file.getFileName());
+                files.add(new FileProcessor(file).apply(format));});
         } catch (IOException e) {
             log.error("Ошибка при работе с каталогом", e);
         }

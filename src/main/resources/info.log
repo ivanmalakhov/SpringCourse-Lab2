@@ -1,0 +1,5 @@
+2024-03-11T14:54:45.166794400,2024-03-11T14:54:45.294758600,get,[],FolderProcessor{files=[FileReader{logData=logData, filepath=src\main\resources\files\file1.csv}, FileReader{logData=logData, filepath=src\main\resources\files\file2.csv}], folderName='src/main/resources/files/'}
+2024-03-11T14:54:45.309565200,2024-03-11T14:54:45.520037600,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T15:01:55, application=web, error=false)],null
+2024-03-11T14:54:45.521036,2024-03-11T14:54:45.521526300,save,[CsvFormat(userName=user11, fio=Fio1, accessDate=null, application=mobile, error=true)],null
+2024-03-11T14:54:45.522524600,2024-03-11T14:54:45.542309300,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T11:01:55, application=web, error=false)],null
+2024-03-11T14:54:45.543863800,2024-03-11T14:54:45.548340,save,[CsvFormat(userName=user1, fio=Fio1, accessDate=2024-04-01T17:01:55, application=mobile, error=false)],null
